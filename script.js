@@ -1,7 +1,7 @@
 window.addEventListener('DOMContentLoaded', async () => {
     var userList = new UserList('#app', 'https://reqres.in/api/users');
     userList.renderUserList();
-    userList.renderForm();
+    userList.renderForm;
   })
 
 
